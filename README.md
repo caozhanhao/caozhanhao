@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m a Chinese senior high school student.
-- 💬[中文博客(Chinese Blog)](https://czh.aiwill.xyz/)
+- 💬[中文博客(Chinese Blog)](https://assert.top/)
 <!--
 **caozhanhao/caozhanhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
