@@ -1,5 +1,8 @@
 ### Hi there 👋
-- 🌱 I’m a Chinese student.
+- 🌱 I'm an undergraduate student from China
+- 🔭 Currently learning Computer Architecture & Compiler
+- ⚡ Mostly code in C++
+- 🤔 Also exploring Chisel, Rust, Vue (but still a beginner)
 <!--
 **caozhanhao/caozhanhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,5 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-Happy 18th Birthday to me!
 -->
