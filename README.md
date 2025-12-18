@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I'm an undergraduate student from China
-- 🔭 Currently learning Computer Architecture & Compiler
+- 🔭 Currently learning Machine Learning Systems
 - ⚡ Mostly code in C++
 - 🤔 Also exploring Chisel, Rust, Vue (but still a beginner)
 <!--
